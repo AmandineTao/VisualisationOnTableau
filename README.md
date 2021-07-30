@@ -1,2 +1,4 @@
-# VisualisationOnTableau
-Advanced Data mining: Churn investigation in bank
+# VisualisationWithTableau
+data exploration on office supplies
+Advanced Data mining: Churn investigation in bank, 
+A-B test basic & chi-squared test, model validation. 
